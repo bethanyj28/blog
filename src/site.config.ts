@@ -2,7 +2,7 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://trustyduck.dev',
+  site: 'https://www.trustyduck.dev',
   // The name of your site, used in the title and for SEO.
   title: 'Trusty Duck',
   // The description of your site, used for SEO and RSS feed.
