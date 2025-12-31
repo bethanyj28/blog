@@ -19,18 +19,18 @@ As mentioned above, I am bought into the Apple ecosystem. I owe the Mac preferen
 I do use a Windows PC for gaming! It's perfectly fine for that, though I do find myself fighting against Windows a lot, but I think that's more because I don't have the right mental model for using it. I do wish it would not reset my settings back to default after every update!
 
 ### Accessories
-Again, I have Airpods 2 (I think) for earbuds. They're perfect in every way except fit, but I think I have an odd ear shape. I do have Airpods Max which look gorgeous, but is _so heavy_. I prefer the Sony WH-1000XM4s for listening to music and traveling because they're so much lighter and sound a lot better.
+Again, I have Airpods 2 (I think) for earbuds. They're perfect in every way except fit, but I think I have an odd ear shape. I do have Airpods Max which look gorgeous, but is _so heavy_. I prefer [the Sony WH-1000XM4s](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b?srsltid=AfmBOopmzmcP5qVu-W_6ipo0KGoZSOzGrrSsSlayOgx6aKOj8OWexbjx) for listening to music and traveling because they're so much lighter and sound a lot better.
 
 I use the Elgato Wave as my microphone and a very basic Logitech webcam. I might look to upgrade the webcam this year.
 
 ### Keyboards!
-I finally upgraded my switches this year and have a keyboard setup I like! My desk keyboard is the ZSA Moonlander with Huano Sakuras. It's so comfy to type on now and sounds impeccable. My travel keyboard is a Planck from ZSA (that's now discontinued, but you can get a Planck from many places). I replaced the Cherry Browns with Akko V3 Fairy Linear Silents so I wouldn't feel terrible bringing it with me to my coworking space. It's actually more quiet than the default Mac keyboard now and still feels great!
+I finally upgraded my switches this year and have a keyboard setup I like! My desk keyboard is the [ZSA Moonlander](https://www.zsa.io/moonlander) with [Huano Sakuras](https://milktooth.com/products/sakura). It's so comfy to type on now and sounds impeccable. My travel keyboard is a Planck from ZSA (that's now discontinued, but you can get a Planck from many places). I replaced the Cherry Browns with [Akko V3 Fairy Linear Silents](https://en.akkogear.com/product/akko-v3-fairy-switch-silent45pcs/) so I wouldn't feel terrible bringing it with me to my coworking space. It's actually more quiet than the default Mac keyboard now and still feels great!
 
 ![Desk setup with Moonlander](./desk.jpeg)
 
 ![Planck keyboard sitting on a Mac keyboard](./planck.jpeg)
 
-I game with a Rainy75. I wish I could copy its sound to all my other keyboards because it is so nice!!
+I game with a [Rainy75](https://www.wobkey.com/products/rainy75). I wish I could copy its sound to all my other keyboards because it is so nice!!
 
 ![Purple Rainy75 keyboard being held in one hand](./rainy.jpeg)
 
@@ -49,14 +49,14 @@ Things are a little chaotic here. I have Obsidian and really want to make it wor
 
 When I need to take handwritten notes, I've been reaching for Apple Freeform. It feels like FigJam but is free, so it works for me.
 
-I tried VoiceNotes for a stint for an audio transcriptions. It was fine, but I can't use it for work things because of AI, so the subscription fee didn't feel super worth it.
+I tried [VoiceNotes](https://voicenotes.com/) for a stint for an audio transcriptions. It was fine, but I can't use it for work things because of AI, so the subscription fee didn't feel super worth it.
 
 ### Coding
 I'll write a more in-depth post about this, but I have continued to use Neovim! It's so extensible and I've honestly had zero issues with feature parity to other editors. This includes AI agents and such too.
 
-I switched from iTerm2 to Ghostty this year and haven't looked back. iTerm2 was doing more than I want my terminal to do. Ghostty is mostly perfect with nearly zero additional setup.
+I switched from iTerm2 to [Ghostty](https://ghostty.org/) this year and haven't looked back. iTerm2 was doing more than I want my terminal to do. Ghostty is mostly perfect with nearly zero additional setup.
 
-I've been using Bruno as a cURL client. It's pretty good! I love that it's open source and privacy-concious. I don't love that everything _has_ to be in a collection so if I make a cURL request, I have to figure out a collection to put it in.
+I've been using [Bruno](https://www.usebruno.com/) as a cURL client. It's pretty good! I love that it's open source and privacy-concious. I don't love that everything _has_ to be in a collection so if I make a cURL request, I have to figure out a collection to put it in.
 
 I of course use GitHub for code storage, CI/CD, project tracking, and so on. Since working there I've discovered there are few problems that it can't solve!
 
@@ -71,15 +71,15 @@ Other than that, I really like Signal as a privacy-first chat app. I still use T
 Slack is great for work, but I really do not enjoy it for anything non-work related. Its free tier is extremely limited and frustrating.
 
 ### Trackers
-I use How We Feel for emotion tracking. I think it's a lovely app with a great UX. And I like their privacy philosophy! I have been using Natural Cycles for cycle tracking. I think it's fine if you have a typical cycle but is a little frustrating as someone with a chaotic cycle. I've used HabitKit off and on this year for habit tracking.
+I use [How We Feel](https://howwefeel.org/) for emotion tracking. I think it's a lovely app with a great UX. And I like their privacy philosophy! I have been using [Natural Cycles](https://www.naturalcycles.com/) for cycle tracking. I think it's fine if you have a typical cycle but is a little frustrating as someone with a chaotic cycle. I've used [HabitKit](https://www.habitkit.app/) off and on this year for habit tracking.
 
-I've been using Goodreads and Fable for book tracking. They're fine but far from perfect.
+I've been using Goodreads and [Fable](https://fable.co/) for book tracking. They're fine but far from perfect. I also use [Album of the Year](https://www.albumoftheyear.org/) for music tracking.
 
 ### Music
 I use Spotify, but have been tempted to consider Apple Music given some choices Spotify has made recently. It is fine as a music app though, and I do love that they've made it easy to share a queue recently, especially via CarPlay.
 
 ### Etc.
-I've really enjoyed Crouton for recipe storage! Google Calendar and Gmail for calendar/email just works and I haven't found a reason to change.
+I've really enjoyed [Crouton](https://crouton.app/) for recipe storage! Google Calendar and Gmail for calendar/email just works and I haven't found a reason to change.
 
-## Conclusion
+## In conclusion
 I thought this would be a short little post, but it was fun to reflect on what tech I put in my life! Would love to know what your tech stack is, or if you have recommendations for note taking!
