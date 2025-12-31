@@ -4,6 +4,9 @@ published: 2025-12-31
 draft: false
 tags: ['personal', 'productivity']
 toc: true
+coverImage:
+  src: './cover.jpg'
+  alt: 'A cluttered bookshelf with small ducks on stacked books. There are many gophers from the programming language Go.'
 ---
 
 As developers, we're fairly aware of tech stacks for services and companies, but I love the idea of a tech stack that supports you and your life! Mine changes probably too much, but I'd like to take a moment to reflect on the hardware and software in my life at this point in time.
@@ -26,13 +29,13 @@ I use the Elgato Wave as my microphone and a very basic Logitech webcam. I might
 ### Keyboards!
 I finally upgraded my switches this year and have a keyboard setup I like! My desk keyboard is the [ZSA Moonlander](https://www.zsa.io/moonlander) with [Huano Sakuras](https://milktooth.com/products/sakura). It's so comfy to type on now and sounds impeccable. My travel keyboard is a Planck from ZSA (that's now discontinued, but you can get a Planck from many places). I replaced the Cherry Browns with [Akko V3 Fairy Linear Silents](https://en.akkogear.com/product/akko-v3-fairy-switch-silent45pcs/) so I wouldn't feel terrible bringing it with me to my coworking space. It's actually more quiet than the default Mac keyboard now and still feels great!
 
-![Desk setup with Moonlander](./desk.jpeg)
+![Desk setup with Moonlander](./desk.jpeg 'Why yes, those are duck keycaps.')
 
-![Planck keyboard sitting on a Mac keyboard](./planck.jpeg)
+![Planck keyboard sitting on a Mac keyboard](./planck.jpeg 'I use a 3D printed keyboard cover so I can use the planck like I would my Mac keyboard!')
 
 I game with a [Rainy75](https://www.wobkey.com/products/rainy75). I wish I could copy its sound to all my other keyboards because it is so nice!!
 
-![Purple Rainy75 keyboard being held in one hand](./rainy.jpeg)
+![Purple Rainy75 keyboard being held in one hand](./rainy.jpeg 'Don\'t be fooled by my strength, this keyboard is heavy.')
 
 ### Tablet/E-reader
 I've been waffling on buying an iPad mini for a while. I finally bit the bullet and got it and honestly I regret not doing it sooner. It's a great e-reader, second screen, notepad, sheet music, etc. All that while being so portable! I haven't picked up my Kindle in quite a while because the Kindle app on iPad is way better.
