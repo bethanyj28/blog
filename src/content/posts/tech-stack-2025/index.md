@@ -14,15 +14,15 @@ As developers, we're fairly aware of tech stacks for services and companies, but
 ## Hardware
 
 ### Phone
-I used to be an Android girly, but I swapped to Apple in 2020 and have begrudingly embraced the walled garden. I'm using an iPhone 14 Pro right now which still works fairly well aside from the battery getting a little worse for wear. I might upgrade to the 17 Pro soon but it's only because I have phone upgrade funds to use and nothing to do with the current performance.
+I used to be an Android girly, but I swapped to Apple in 2020 and have begrudgingly embraced the walled garden. I'm using an iPhone 14 Pro right now which still works fairly well aside from the battery getting a little worse for wear. I might upgrade to the 17 Pro soon but it's only because I have phone upgrade funds to use and nothing to do with the current performance.
 
 ### Computer
-As mentioned above, I am bought into the Apple ecosystem. I owe the Mac preference really to my first job. I just love a unix based system. I know Windows has gotten better since I've used it as my primary machine, but the Mac just works so well. I have given Linux a shot, but found myself debugging my OS more often than I'd like.
+As mentioned above, I am bought into the Apple ecosystem. I just love a Unix-based system for coding! I know Windows has gotten better since I've used it as my primary machine, but the Mac just works so well. I have given Linux a shot, but found myself debugging my OS more often than I'd like.
 
 I do use a Windows PC for gaming! It's perfectly fine for that, though I do find myself fighting against Windows a lot, but I think that's more because I don't have the right mental model for using it. I do wish it would not reset my settings back to default after every update!
 
 ### Accessories
-Again, I have Airpods 2 (I think) for earbuds. They're perfect in every way except fit, but I think I have an odd ear shape. I do have Airpods Max which look gorgeous, but is _so heavy_. I prefer [the Sony WH-1000XM4s](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b?srsltid=AfmBOopmzmcP5qVu-W_6ipo0KGoZSOzGrrSsSlayOgx6aKOj8OWexbjx) for listening to music and traveling because they're so much lighter and sound a lot better.
+Again on the Apple train, I have AirPods 2 for earbuds. They're perfect in every way except fit, but I think I have an odd ear shape. I do have AirPods Max which look gorgeous, but is _so heavy_. I prefer [the Sony WH-1000XM4s](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b?srsltid=AfmBOopmzmcP5qVu-W_6ipo0KGoZSOzGrrSsSlayOgx6aKOj8OWexbjx) for listening to music and traveling because they're so much lighter and sound a lot better.
 
 I use the Elgato Wave as my microphone and a very basic Logitech webcam. I might look to upgrade the webcam this year.
 
@@ -55,7 +55,7 @@ When I need to take handwritten notes, I've been reaching for Apple Freeform. It
 I tried [VoiceNotes](https://voicenotes.com/) for a stint for an audio transcriptions. It was fine, but I can't use it for work things because of AI, so the subscription fee didn't feel super worth it.
 
 ### Coding
-I'll write a more in-depth post about this, but I have continued to use Neovim! It's so extensible and I've honestly had zero issues with feature parity to other editors. This includes AI agents and such too.
+I'll write a more in-depth post about this, but I have continued to use Neovim! It's so extensible and I've honestly had zero issues with feature parity compared to other editors. This includes AI agents and such, too.
 
 I switched from iTerm2 to [Ghostty](https://ghostty.org/) this year and haven't looked back. iTerm2 was doing more than I want my terminal to do. Ghostty is mostly perfect with nearly zero additional setup.
 
@@ -64,7 +64,7 @@ I've been using [Bruno](https://www.usebruno.com/) as a cURL client. It's pretty
 I of course use GitHub for code storage, CI/CD, project tracking, and so on. Since working there I've discovered there are few problems that it can't solve!
 
 ### AI
-I use GitHub Copilot for most coding AI usage and coding agent tasks. I use Claude for personal AI chats. I may re-signup for ChatGPT since it's audio functionality is really nice, but it's not a strong need at this point.
+I use GitHub Copilot for most coding AI usage and coding agent tasks. I use Claude for personal AI chats. I may re-signup for ChatGPT since its audio functionality is really nice, but it's not a strong need at this point.
 
 ### Conversation
 My favorite chat app would probably be Discord. It's really awesome for communities and gaming and I think their free offering is very fair. I did start paying for the full membership this year, but I don't mind supporting it.
@@ -82,7 +82,7 @@ I've been using Goodreads and [Fable](https://fable.co/) for book tracking. They
 I use Spotify, but have been tempted to consider Apple Music given some choices Spotify has made recently. It is fine as a music app though, and I do love that they've made it easy to share a queue recently, especially via CarPlay.
 
 ### Etc.
-I've really enjoyed [Crouton](https://crouton.app/) for recipe storage! Google Calendar and Gmail for calendar/email just works and I haven't found a reason to change.
+I've really enjoyed [Crouton](https://crouton.app/) for recipe storage! Google Calendar and Gmail for calendar/email just work and I haven't found a reason to change.
 
 ## In conclusion
 I thought this would be a short little post, but it was fun to reflect on what tech I put in my life! Would love to know what your tech stack is, or if you have recommendations for note taking!
