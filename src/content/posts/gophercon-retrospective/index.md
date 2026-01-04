@@ -4,6 +4,9 @@ published: 2026-01-04
 draft: false
 tags: ['personal', 'talk', 'conference']
 toc: true
+coverImage:
+  src: './gophercon.jpeg'
+  alt: 'Bethany squats next to a gopher wearing an I "gopher" NY t-shirt, which is a play on the typical I heart NY t-shirt.'
 ---
 
 Last year, I spoke for the first time at GopherCon! I was so grateful for this experience as I have always wanted to speak at GopherCon since first hearing about it on Go Time. As my lightning talk was just posted, I wanted to share a bit on the experience, what I learned, and what has changed since then.
